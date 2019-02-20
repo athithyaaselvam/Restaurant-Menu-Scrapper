@@ -1,0 +1,33 @@
+cuisine_type,rest_address,rest_name
+"$$Cafes, Gluten-Free, Bakeries",7607 E McDowell Rd,Gluten Free Creations
+$$Italian,3159 E Lincoln Dr,L’Amore Italian Restaurant
+$$American (New),1006 E Warner Rd,Ghost Ranch: Modern Southwest Cuisine
+$Mexican,818 W Broadway Rd,Maskadores Taco Shop
+$$Barbeque,4301 E University Dr,Little Miss BBQ
+"$$$American (New), French, Wine Bars",114 E 7th St,House of Tricks
+"$$Chicken Wings, Korean, Asian Fusion",Opened 2 months ago,Bonchon - Tempe
+"$$Bars, American (New)",1006 E Warner Rd,Cotton & Copper
+$Ramen,655 W Warner Rd,Hachi Ramen
+"Ramen, Noodles, Bubble Tea",1857 N Scottsdale Rd,Ramen Time
+"Chicken Shop, Fast Food",Opened 4 weeks ago,PDQ Restaurant
+"$$British, Pubs, Caterers",960 W University Dr,Cornish Pasty
+"$$Mediterranean, American (New), Wine Bars",1435 E University Dr,Salut Kitchen Bar
+"$$Thai, Noodles, Chicken Wings",2700 W Baseline Rd,Chanpen Thai Cuisine
+"$$Burgers, Pizza, Sandwiches",1340 E 8th St,Four Peaks Brewing
+"$$Sushi Bars, Izakaya",2210 N Scottsdale Rd,Zu Izakaya Asian Kitchen
+"$Middle Eastern, Mediterranean",1513 E Apache Blvd,Haji-Baba
+"$$American (New), Sandwiches",9845 S Priest Dr,Perfect Pear Bistro
+$$Ramen,3223 S Mcclintock Dr,Tampopo Ramen
+"$$Korean, Barbeque",2000 E Rio Salado Pkwy,Gen Korean BBQ House
+"$$Bars, Venues & Event Spaces, American (New)",715 S Mcclintock Dr,Social Hall
+"$$Italian, Wine Bars, Breakfast & Brunch",615 S College Ave,Postino Annex
+$$Italian,Large Party Booking,RigaTony’s Authentic Italian
+"Breakfast & Brunch, Vegan, Sandwiches",Opened 2 weeks ago,Scramble
+"$$American (Traditional), Pubs",530 W Broadway,Boulders On Broadway
+$Vietnamese,1537 E Apache Blvd,Khai Hoàn Restaurant
+$$Mediterranean,7192 S Price Rd,TRES Tempe
+$Tacos,119 E Southern Ave,Tempe City Tacos
+$$Szechuan,3330 South Price Rd,Szechwan Noodle
+"$Vegan, Vegetarian",414 S Mill Ave,Desert Roots Kitchen
+"$$Noodles, Kebab, Hot Pot",1043 E Lemon St,Chen’s Noodle House
+"$$Italian, Delis, Sandwiches",2334 N Scottsdale Rd,DeFalco’s Italian Deli & Grocery
